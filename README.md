@@ -1,6 +1,6 @@
 # NTUA-Artificial-Intelligence
 
-## Projects and Theoretical Exercises for the 2020-2021 NTUA class Artificial Intelligence
+## Projects and Theoretical Exercises for the 2021-2022 NTUA class Artificial Intelligence
 
 > Projects
 
