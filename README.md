@@ -12,8 +12,8 @@
 
 > Theoretical Exercises
 
-🔴 <b>1st Exercise: Contains various problems of searching algorithms. </b>
+🔵 <b>1st Exercise: Contains various problems of searching algorithms. </b>
 
-🔴 <b>2nd Exercise: Contains various problems on logic </b>
+🔵 <b>2nd Exercise: Contains various problems on logic </b>
 
-🔴 <b>3rd Exercise: Contains various problems on machine learning, uncertainty and fuzzy </b>
+🔵 <b>3rd Exercise: Contains various problems on machine learning, uncertainty and fuzzy </b>
